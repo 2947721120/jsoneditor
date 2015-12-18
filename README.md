@@ -1,4 +1,4 @@
-# JSON Editor
+# JSON 编辑器
 https://github.com/josdejong/jsoneditor
 http://jsoneditoronline.org/
 
@@ -6,39 +6,41 @@ Website: http://jsoneditoronline.org/
 Github: https://github.com/josdejong/jsoneditor
 
 
-## Description
+## 描述
 
-JSON Editor is a web-based tool to view, edit, and format JSON.
-It has various modes such as a tree editor, a code editor, and a plain text
-editor.
+JSON编辑器是一个基于网络的工具来查看、编辑和格式JSON。 这模式如树有各种编辑器，代码编辑器和一个纯文本 。
 
-The editor can be used as a component in your own web application. The library
-can be loaded as CommonJS module, AMD module, or as a regular javascript file.
+编辑可以作为你自己的Web应用程序的一个组成部分。图书馆可以为 CommonJS模块，加载和模块，或作为一个JavaScript文件。
 
-Supported browsers: Chrome, Firefox, Safari, Opera, Internet Explorer 9+.
+支持的浏览器：Chrome，Firefox，Safari，Opera，Internet Explorer 9.
 
 <img alt="json editor" src="https://raw.github.com/josdejong/jsoneditor/master/misc/jsoneditor.png">
 
 <img alt="code editor" src="https://raw.github.com/josdejong/jsoneditor/master/misc/codeeditor.png">
 
 
-## Features
+## 功能特色
 
-### Tree editor
-- Edit, add, move, remove, and duplicate fields and values.
-- Change type of values.
-- Sort arrays and objects.
-- Colorized code.
-- Search & highlight text in the treeview.
-- Undo and redo all actions.
+### 树编辑
 
-### Code editor
-- Format and compact JSON.
-- Colorized code (powered by Ace).
-- Inspect JSON (powered by Ace).
+编辑、添加、移动、删除、复制字段和值。
+改变的值的类型。
+排序数组和对象。
+彩色编码。
+搜索和突出树视图中的文本。
+撤消和重做所有的行动。
 
-### Text editor
-- Format and compact JSON.
+### 代码编辑器
+
+格式和紧凑的JSON。
+彩色编码（由ACE）。
+检查JSON（由ACE）。
+
+
+
+
+### 文本编辑器
+- 格式和紧凑的JSON。
 
 
 ## Documentation
